@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        dmSans: ["Roboto Mono", "monospace"],
+        dmSans: ["Roboto", "monospace"],
       },
       colors: {
         white: "#ffffff",
