@@ -13,6 +13,10 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.3.1",
     "autoprefixer": "^10.4.7",
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-config-airbnb-base": "latest",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-vue": "latest",
     "postcss": "^8.4.13",
     "tailwindcss": "^3.0.24",
     "vite": "^2.9.7"

@@ -1,7 +1,7 @@
 <script setup>
-import Home from './pages/Home.vue'
+import HomePage from './pages/HomePage.vue';
 </script>
 
 <template>
-  <Home class="font-dmSans"/>
+  <HomePage class="font-dmSans" />
 </template>
