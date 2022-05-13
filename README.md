@@ -8,15 +8,6 @@ Front End da aplicação [Invoices Viewer](https://github.com/dcmatheus/invoices
 
 ---
 
-## Tecnologias utilizadas
-
-- #### Vue: Framework javascript principal.
-- #### Tailwind: Framework css utilizado na estilização dos componentes.
-- #### Vite: Principal builder da aplicação.
-- #### Eslint: Ferramenta que mantém o código seguindo os principais padrões da comunidade.
-
----
-
 ## Iniciando a aplicação
 
 - #### Clone o repositório:
@@ -44,6 +35,15 @@ Exemplo:
 ```env
 VITE_API_URL='https://invoices-viewer-api.herokuapp.com/'
 ```
+
+---
+
+## Tecnologias utilizadas
+
+- #### Vue: Framework javascript principal.
+- #### Tailwind: Framework css utilizado na estilização dos componentes.
+- #### Vite: Principal builder da aplicação.
+- #### Eslint: Ferramenta que mantém o código seguindo os principais padrões da comunidade.
 
 ---
 
