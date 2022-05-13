@@ -8,7 +8,7 @@
   "scripts": {
     "start": "vite --port $PORT",
     "dev": "vite",
-    "build": "vue-tsc --noEmit && vite build",
+    "build": "vite build",
     "preview": "vite preview --port 8080"
   },
   "dependencies": {
