@@ -12,7 +12,6 @@ const fetchInvoices = async () => {
 };
 
 fetchInvoices();
-
 </script>
 
 <template>
