@@ -1,8 +1,9 @@
-const url = import.meta.VUE_APP_API_URL || 'http://localhost:3001';
+const url = import.meta.env.VITE_API_URL || 'http://localhost:3001/';
 
 async function getInvoices() {
   try {
-    const response = await fetch(`${url}/orders`);
+    console.log(url);
+    const response = await fetch(`${url}orders`);
     const json = await response.json();
     return json;
   } catch (error) {
